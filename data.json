@@ -2,6 +2,67 @@
   "version": 1,
   "title": "Musterlösungen (Demo)",
   "subtitle": "Zugangscode für die Demo: demo-2026",
-  "updated": "2026-11-06T07:58:08.187Z",
-  "cards": []
+  "updated": "2026-11-06T08:06:41.046Z",
+  "cards": [
+    {
+      "id": "k9b74283811717500",
+      "title": "01 Anlässe der Reorganisation",
+      "category": "LF11 - Baustein 1",
+      "task": "## Aufgabe\n\n**Markieren** Sie in der Nachricht von Frau Ohlsen und im Schreiben des Klinikverbunds (Seite „Ihr Auftrag“) alle Hinweise darauf, warum sich baerio neu organisieren muss. **Tragen** Sie die Hinweise in die Tabelle **ein und ordnen** Sie jeden Hinweis einer der fünf Anlassgruppen **zu**.\n\n---\n\n## Plus\n\n**Nennen** Sie einen Anlass für eine Reorganisation aus Ihrem eigenen Ausbildungsbetrieb **und ordnen** Sie ihn einer Anlassgruppe **zu**.",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "xTCU6y7p9BuATS+gJDP8yw==",
+        "iv": "re26DpT98DC9Vzbg",
+        "ct": "ycbGEcCXvcgAZfDdebcWeKpS9VQlNmEp2Cg/fiaj8tGMZdY/sSV/nBC1B6dtKCzWfFxX4RnUtXj2FD4arDaynmGtRDW+2iCCzpqvIH7pHO+P6swEt6UseRnPaTJ5DVDadOZs/m/x5r1NkTZYlaWbxrxaFZ2aIX8lwRmYGcfd3Lzj6/SSvwNXbLMWxAEGXMNVEVJZrE5gz6R7eBexhteF7PhkawxkcZfJClsAXnuhxilKLfjkhlu9PuXXeCJ3BvszD2NBPEcFbf8HBtsnT6BH0LHHqlG9o6NPjahp28bj2PZTBYTZEhfqJ0BNQn8Nfz515FrJEfh7tqpZ6agP/CVQvWnZpAMgKPeUavPVqJh5Pydv6DcMpXWhmo9R8pVHQPSGZMJEO4FX/OcOwdfXpuzOX6lIZp+uBBW+XSHcySilPgq+QwLaD/7hzLI+wLoVVlgfeccKYEZncqeo7owlL7ASH1wOvys/9VPE+VOl3mWOIDMWFGjMYEtiHBhR8wEiCPVEZl+4Fn1/mrmCne0EAU4RIPa3jsbX9nYIzgDaLUtnyOwMw3Y5ugjrCptQbjkgank92GiomR1N3qMxCNDalakou6GJsoGB0pqRqZzs1BTZmg+0z55pLX6R22gTRw2UXNezVT8nkPyW86Y+sR9cX3wbxDBXk61kwDb98sUDjTLa9QA0PYyXNgWUeSPUGM6ljoHGxt2Q5iJ/LUH7k8Gq35dDtpJfWyxqCbgO0rT1F/+pWnYfUNAxhImabxH0r7UpX9JdxRQLNYQ4+Iy/hABRYYSX84nBnU63RifOaSm3gr8JjVkpOIEIcG3/LqU/mzr3fB2sj1NFiPsM7KK2NFPs8U5eCMI6DnZfdfVIKq3RSH8klXzKamzPoOHohSyGowkw0XCR22Bgj6hWk4aCu53MtNxWElJ7VCELNKY7EyG/A5VuefFvWEpD6zihqImxpU9wdGy7J4YrDgZSKYcX7xkQhoUdu13txokqg4tVqTmYsazW9ilnvxuZ/ydS+VthFaYhdpcTZJwMPKWx78p/6XGHAMtBhclvZB2mR5x7qXBpZ6RlelFcYG5PEtqkC7AeKwPxcKQg4tf7HHfkrAfG2Hyaq7/5PgVnoKz8UNSgS5rmUOfITueR8kvsqziANfaVaD0nh98lpzHv4CIa/1Qfedb/2GnQR6RChMA+2ltQ+E3NuVdJJaPwUaa382aHf0d/mMgrGfkwmMLpRCYI6OL0Dt6XoTimifAJ11j1zO7/vOG0wPjzkJonViTbO5cG9kzUkXuGi5RIslB7LoyVHsc78Ur9xasbBfVUiBBru4iQEJ1V0/GokeV4UNriZdsvj9PzNrKHqPWfjz1Ra52FaTyiLsIesnrO18zrLfVxCFYvo/i/bSkn+2Ip0NbZ+qAfMzRIrqfbB++MGcUEtNQ17zk+/53UbHIljdVhYtsiEah5F5r2IAPvO8FG0FZT96acw5TtWg8x7j5aJivddU7UdAd5ldl2yRN6H9Xe1pOI7rYf1iZ/sMGA4UAO5x7qiJzFPMA1x9qDQS07mYQN9ZHk3USnD3LmXZ+RNuqO0qN52sVnf+S4Z8MYm3fjURGDAReyOT69fiilNN5BIL7F4mf47wGv2P2Oat74sVMxFuDqumQygD37ylNZ2xWwrgHh8pPwkW9Ek4+3YA1qC21JDfBWT6YwraK8BDgSduHug9xTLRPw2fYAziCXwVb1G/GXxhwTHwspXbTbDR7u/q3rRt04bzibjhFRptbVlAe05VhksBzPRRnYisImK7hAwWLtUAsPj2qM1oLMSiNODcYHIldU2LOn8zwkcwRQIOTPDg=="
+      }
+    },
+    {
+      "id": "k069ba33d95bc336b",
+      "title": "02 Begriff Organisation",
+      "category": "LF11 - Baustein 1",
+      "task": "## Aufgabe\n\n**Erstellen** Sie die Begriffskarte „Organisation“: Definition, Merkmale (Gegenstand und Voraussetzungen), **ein Beispiel und ein Gegenbeispiel** aus dem baerio-Alltag. **Vergleichen** Sie Ihre Karte anschließend mit Ihrer Lernpartnerin bzw. Ihrem Lernpartner.\n\n---\n\n## Plus\n\n**Begründen** Sie ausführlich, warum Ihr Gegenbeispiel nicht durch eine generelle Regelung geregelt werden kann.",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "MauJUs4DsumO0xXgosyAOw==",
+        "iv": "XLkO2bRfDShkALEg",
+        "ct": "qRyd698/IAjWM+Mymr55tZO+qR62FjXWbQPgxPzdjXd2sKrnIQzMCaC5gFgkvkOEb7ozh9PTXeIwZF0xA996XV5YYjSMWvcx1vchpvqX9L6Yb1jazRJt6q8YEcKna2SZh0W+ZOgy1bf4XXXoPT0k10tHFjzWu60lMkcx+ntFwgYIDJlK7iUZlRiwjJss3nJDgl9qLXWh3q9n+dyUy9HBS8bEwgGpaElA+4YnoOVWHTvZ+7hNoshFR3wxk4/0tA2p+HEsiTLMwk2pRK0PvkGpE+jjYm+uYxoYjvMENGG08WB2DV4FYRGAtoqHnvTddi6B1PKAHwb8TMrnqWam+X8oIFJhDu662qgF9jCoiYKv6WKTHzCvyaM3FeVPtcN0TJrDXMB+v7j8UwIdfNt6iOvagNSiS/RU8GRpiQqrlTwg02nDwM5MCyoOd8fNoDy88j8vwSVzyo8sMRV6ZuGw1jnzO1E+l/Yx1QtZeOXZ7My9As7E6/+e/SMR6/6GSf3+ZzeCVsqcljUfOEjFRouHnbZNapFlsJx1VmGI2H6o2ei6EX5/LpdFatcn8n7Ms6bA3QDHcZcqM2V/zZJHxrQHoVkD0Z1w1QFxirOf7DeM3q3kWTCcv/JiqUzNSjBKzGOQ1wKDi8QRTrV7hvNxdrtM67DxawJiQqFsH9+hlUzUKmqyXMVhRo+7zk/cuuKK7S2VH8DTvKEMAWlj4Uou5UZFTR57+CZmnPBgL+oieRtHhdrkUe2bsGVriEulZeuNmzhuSahaUM2NMgi5is5yYF7TskWdxg/MQ3sP79pPjcElNesDveKiByAdvIbIuKzR0xCkE3OuVOzBcJuVExoCRYa7CUtKaJTAy0gdFGFQvkbKClNxw6O56841mLbfcNhbppE5BUIzlAcB0cnmJzLZr1nsibomsRRETp/rkRLSUlEa3UPN8MvODhS7ZACtmjXQw8wzIK6xJxys7WMPv3GW9Pg5htVtPBPOGwcuIq7cGvCMiJYC7cdh5Ks7kG5LJVNc7BQ/pdLfkRiuWmqbqBWF0LCuv11MJ71ASKVC0FGehroKQseuDPp3vdHSKgaaqOZMvfEoNiv14JfYIGxo8n/jyMpY2EIKo9eVV2qosyor5SalPKU1wLWUhHG3Zy2E6lsmyKuUjfxgD+TITeHHoVF/fYVAhkNkmdWNs9zxp4OU8X17OflSrJA2MjvvMwBCOh99uOMllJvG767xJd2JkHs1Teboh4mczvFoXDGYGR+HHhYfUoPEhdNMAdM/jBYYms68DEkOKMNFq5NXsOPUR5uib/jSs2tjAG2go+Dr5dXQW8qJuG0VKMsj6awJOt+0atSVYO/Kf5G0q2Sufg7airKf8R2cqj0Ff1EcV51WCotlXqm+6br8aKqlnwBblzjmdB5hWx3y+9VqPlyifUDIRZIIbrcMbdqeLzOBKMjOlFlz3URokKleQbwzhQtxrrBS8JOqtbdhKOwPJ5rPp/XryqA7dj+BMNvbw3Fs1qw="
+      }
+    },
+    {
+      "id": "k407ec8c71b1e0e4a",
+      "title": "03 Organisation, Disposition, Improvisation",
+      "category": "LF11 - Baustein 1",
+      "task": "## Aufgabe 1\n\n**Ordnen** Sie die Situationskarten der Organisation, der Disposition oder der Improvisation **zu**. Die Karten 1–8 bearbeiten alle, die Karten 9–12 sind Plus-Karten mit Begründung.\n\n| Nr. | Situation |\n|---|---|\n| 1 | Jede eingehende Reklamation wird laut Verfahrensanweisung innerhalb eines Werktags im Warenwirtschaftssystem erfasst. |\n| 2 | Die Servicezeit des Kundendienstes ist dauerhaft auf 8 bis 16:30 Uhr festgelegt. |\n| 3 | Die Verfahrensanweisung erlaubt bei kleinen Reklamationen Ersatz oder Gutschrift. Max Reimers entscheidet, was er einer langjährigen Kundin anbietet. |\n| 4 | Wegen eines Sturms fällt der Paketdienst aus. Fabio Costa lässt eine Eillieferung spontan von Fahrer Andreas Müller ausfahren. |\n| 5 | Yvonne Risse legt fest, in welcher Reihenfolge sie die heute eingegangenen Aufträge bearbeitet. |\n| 6 | Das Warenwirtschaftssystem fällt aus. Bestellungen werden vorübergehend auf Papier notiert. |\n| 7 | Gutschriften werden immer mit demselben Formular ausgestellt. |\n| 8 | Ein Kunde steht unangemeldet mit beschädigter Ware im Foyer. Teresa Sánchez nimmt die Ware entgegen und schreibt eine Notiz. |\n\n## Aufgabe 2\n\n**Begründen** Sie zwei Ihrer Zuordnungen **schriftlich**.\n\n---\n\n## Plus\n\n**Ordnen** Sie die Plus-Karten **zu und begründen** Sie Ihre Zuordnung.\n\n| Nr. | Situation |\n|---|---|\n| 9 | Für Reklamationen gibt es keine Regel. Bei jeder Reklamation entscheidet die Person, die gerade Zeit hat, neu, wie sie vorgeht. |\n| 10 | Bei Reklamationen über 500 € entscheidet laut Regel die Abteilungsleitung Verkauf im Einzelfall über eine Kulanzlösung. |\n| 11 | Nachdem der Paketdienst im Winter dreimal ausgefallen ist, legt die Lagerleitung fest: Bei Ausfall übernimmt immer der eigene Fuhrpark die Eillieferungen. |\n| 12 | Eine Grippewelle legt drei von vier Personen im Kundendienst lahm. Max Reimers bittet spontan Kolleginnen aus der Auftragsbearbeitung um Hilfe. |",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "YxWO178jOWyFOabha/Xtiw==",
+        "iv": "fMhG38N7pHt/2PzU",
+        "ct": "1jVNIy1s4wn/CihopbIuEMlA1F4hR5lcaW+1nPAjnYXvsa7shYN8IwwZK5KTBHsmJhLb7fL3GG5FPHIR6bw6OekLbg0WGS3efi/8Rykikq7DRrZeEC8fTh6V5sFOhpmiLDN56lQtibmUMHVMGOHRrp0i91iYrXeUoI/EcJWE5DfuZfB3jB+O+SJzYsdbTjAvMBGmb1PFFsP1x2dSjzEvnOw6P3iOX6pqxz92AeXQsB0lK/mypie0byTDJXFM1kuNRPC5E+HiKfEK/7La1RpJePYc9dV8phvKvXtbfXQ6OhfoztRiOsdrjSstU8+dWJcZZsV3vlVBw3KhRLYt8GVkLd836whpBOFgicyfwS10YE7vS2ZSJ3diVQJrOvJLdFBdzoRgLTEuyfPPvk4nVokAfU1z2yxHLEj0qoCvueP4Atars9csElI3YUwYE0WVnV2BlH84MTN7uYCEYns+d6z3CkyCx0Lr6MVzSm5ikaW9adpSBG2zBUaAH5gkn9SurdnLD+NG9sFJRCR8okKlkLMkzUcCn+VJRbSGB6cdAFcL3KrtDsGT+fRSddevvuAL885y/vnHpqQ/6GYoS6xgIfdZ54sejX+suurtzNYvhwIAQCYYVqKkDJCKCj+tFIsSd0ZeJpkpLjjwW+mBrRN/XtoZJe7iBMa7beiNcUw1v/XWHjZxSahBloXTnCoCAc52Aq8GDFF/l4P49/1oSOFFuMGbK3GAhn3QsmlpaCnEkwN0PgF4GLqwo1OwU1kVgN53dxRTfWp9bvu12yfR/U18wZr2NqdgNvjO7pqnKSTCVxI/4+8zV8Q+HAxvF93KoZowKE9e008R4VXP15z29x+FzBKK2Opaw487iRrKhBbLu2inU9VckEVL6yT3pmTGCK72y6Alo06vn/QZRULOFNwxMoP4QIDyCtXem3g39EeBehfIilt7PY9eJKEcQn/PAOUsoAYxAvOVbHVinLByyPy0MltGoFGiy9VDNXLRknSHwUWJFKzxQKx3xnVLYWhzuuvMooTNBh6ZXAxuOR/PrptNrVpeSYvsdg0ZCMW3dG25D1OlGiiBh5DrXiBkxJ2+Ym6mDBx9IL+j0GAu+5aY7jVbp3V/J7QIdEec2M+4VaieFU5SgDUL63WUBBCOYCkEKRLKTTyUvZFoDTFFgMtzPFr0uVm2DeFgn1/65tfPMY10K3A/GoJCkzOfs36D01TVHqRuII0Dmz46V+trEYJ4G+KXxRJs8FaOkXSeoI76eh7xePGbd5r5GjWDO4RFXxKPKBSit923+8fNVYkrceZyJdvefU9rLuM0CoES5uyyQGrUNBKy2YlTbRroioijWNpCcNRgwNp3DFphs/pwNxZVcAYDRsQzCrDvPeWYAEDmemk0p0GpwQDKJ1IW3UVde4qFNa8RnlADS07Jgss5/+9M5CFJPNkDxUyLwcdLU4Qa3c6z2gmN/DCB3JTaL6Ey2t0w4hGTpM3J4tT/yNvaQyiCqzATPyhC0V5mNVUceoD/Po1t9cwsbM/zNT0rNh4="
+      }
+    },
+    {
+      "id": "k95774dc9d0f60d4a",
+      "title": "05 Grundsätze der Organisation",
+      "category": "LF11 - Baustein 1",
+      "task": "## Aufgabe\n\n**Prüfen** Sie die fünf Aussagen von baerio-Mitarbeitenden: Gegen welchen Grundsatz der Organisation verstößt jede Aussage? **Begründen** Sie Ihre Zuordnung. Plus: **Formulieren** Sie je einen Verbesserungsvorschlag.\n\n| Nr. | Aussage |\n|---|---|\n| 1 | Max Reimers, Kundendienst: „Wer ist eigentlich für Teilreklamationen zuständig? Das weiß bei uns niemand so genau.“ |\n| 2 | Nicole Müller, Debitorenbuchhaltung: „Für eine Gutschrift über 12 Euro brauche ich drei Unterschriften. Das kostet mehr Arbeitszeit, als die Gutschrift wert ist.“ |\n| 3 | Yvonne Risse, Auftragsbearbeitung: „Unsere Reklamationsvorlage ist zehn Seiten lang. Die Angaben, die wir für eine schnelle Entscheidung brauchen, fehlen aber.“ |\n| 4 | Mehmet Yildiz, Warenannahme: „Bei Rücksendungen machen wir es jedes Mal anders. Eine Regel gibt es nicht, also improvisiere ich eben.“ |\n| 5 | Fabio Costa, Warenausgabe: „Ich weiß nie, ob ich eine Ersatzlieferung auf Zuruf des Kundendienstes losschicken darf oder erst nach Freigabe durch den Verkauf.“ |",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "Rne8Y69fUgyE1Zi0wvpP8Q==",
+        "iv": "RfSEN2yIxyHDTGd5",
+        "ct": "4xpY6yX4bT71EAe8gYZmCo3txORvO/4bqCfWaD2s2egmduoQ3Em+TdNLpNRJZCdlpTc3m8Wc6HqDTcrDNDPDFjkstTbcKKKV+Z7taOqqY8hbKU5Wyh8F+4gBLUdZOWVIyQgByS32+nojU+XtLqfx8nZxmfnvrz/4uCSJ5G1YF0WNH6SBtI0GYm7gr8QcjBkWbiiSZRltE+9Bsrmm5lDTDd4ESgEktG1ueTylQP/RIAAkLiQs/dH5apwTPeTJESoIIp62qB6v6S1yzsDoSQKAxQgyBRpV2z/Mpb5HOs0N4sTUp3spe+Ft5ImqKOxsXzNhVqy/Vg670YVMWsziZy7qNSPR/d6MwCtmB/7f9/OyFPNwMb1p4yW69ItFESwwHesI8IqxF6u2XD8r7svWPRkfZIDwaNodC3HUaaHO0m2dyap8aBroEq1Zvgm4Ckou8h+2wMsJgBYcfkJ7re4ocuP5bmtUcUEYfWal2NMb6YzMdEokkITEysK8Aim2YzGK01G/ydA7RP+RNFBEVWbK+aDgNxdfEMKW/UhsKTbN/vfhr+AY7H8Y0TlZiK0JWXjNM5eirnm3Oagg9D7Tfbdi0ZQFkeqEnjgAwpbt1kqQGzfaddgIOnQvQj4F3tbIIaqdtnfNeDrA3/tjsn0/bsdlMSpCIHvXdSobrwJ+4+QZjKapAbO/+FwmJpWEfFG70becoQXQB3eYUinU2QicLRlf5+xNRKV/xI84VbTV4aiullQiGd+uX0DB8itk8Aq2XUTuxyx+LkZ5wm3x2NhgWLippKHDn/lKpKxQtMY0PAiXBuZF2q6pTfeY5qgOnf19cs/H7CVHeFy/8/v4RoF2GmoRwlyOq44WmdEbvvYK3qX0754NhhJ8WwwbeWIwxezXk6rSa9ZcXumatIGj4TZgrdmIF+4slKd34lgH0XFLn36UQ7MXbH1iavXJSGWJfz9SOHgOAAujEOBW7woZZahN7QT9oowtjyBqKwL/qyXnhq5Qzg0uQinttn/uOoJIWgI/9RF6aY5sTZwyGFSjiN+LrPPmQX90Kvcq+BmuKITkyjDsz1wnHe4eSxBMXTT/Jv91O9pD8bktcjmmzelp1HSyMlPczDTulLbiAb+AKwxBSAnb1EuxxWy+cSIKcbRItneD1znTLpVS3c+KxEGbBTUgCRxIcoTLM4cA55Rp1o5cg1smkYLbW5xh"
+      }
+    }
+  ]
 }
