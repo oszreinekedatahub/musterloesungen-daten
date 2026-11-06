@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "title": "Musterlösungen (Demo)",
+  "subtitle": "Zugangscode für die Demo: demo-2026",
+  "updated": "2026-11-05T22:57:21.254Z",
+  "cards": [
+    {
+      "id": "demo-1",
+      "title": "Kalkulation: Selbstkosten",
+      "category": "Baustein 1",
+      "task": "Ein Betrieb hat Materialkosten von **1.200 €** und Fertigungskosten von **800 €**. Die Gemeinkosten betragen 25 %.\n\nBerechnen Sie die Selbstkosten.",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "gEaoMsxwYg4FUnOEXgZrwA==",
+        "iv": "iONk2IIai2VVyUtB",
+        "ct": "F3SEbUMz75XOUKBRvZaTmYJeXiDMn+tcd1xp6sOVcXiJzO0jKPdFB3FS/6v6/ZiCw2J+L7EVqzJ5vi8XTuFet0w1IjwrnNRSLAZubjo9aq8MbrlO8D2Vn/wl8/3CJuHPFGjtj/LpvvNCX5HtxhUcSNm09Y060aK5tFiZ+uqnSWHbM7JG4TZ5PWUy9UErO1M5RqDvdiU6+nk2ZPy1u1XAbzSZSdPmORbGpz0+7yJkssdUnyWFstxtOmIC4/I57iI7H2DGmZyaAKepfbo9z/AE3HRcbzLUQnagPtnDUmBj7yVjvctKJz+dSj5NC4RcgZCYgIbOBktrm4RVowmRu1ztMmUgJyv92IKt700s/KfuL6WgHu6qFlzXWN0fCsie92RX7EZ5fFjq3kYAOZ6iUhPd7DzBIGp6yOgR88Bn+sMcpvr8Pg6AFCXeZV3Fqw5C1GYwqwh7KrORyvbFXiA="
+      }
+    },
+    {
+      "id": "demo-2",
+      "title": "Fachbegriffe zuordnen",
+      "category": "Baustein 1",
+      "task": "Erklären Sie die Begriffe *Umsatz*, *Kosten* und *Gewinn* jeweils in einem Satz.",
+      "enc": {
+        "v": 1,
+        "alg": "AES-GCM",
+        "kdf": "PBKDF2-SHA256",
+        "iter": 250000,
+        "salt": "mndPDGdcLZ7zrVIonD8zjQ==",
+        "iv": "zUVmoo5OPm8MvMFT",
+        "ct": "ER+TH6La3wDEF6iAeoHn1Rz5FKLeAIdtVoLK0uCg7qnZTYO/yGNBEZsvf2JIP/881sTHMKrlT99FwWlZecZ0Rc1o5eEeqNIdDLpkx+DsKqZ+HLRMt9upcGal+Q5XQ/T9voEwzthNFPxYjlLInpltcsvz3KXrDxyYFj4wlmfsdffBFTq58K/qTsbX+QIM+Ri5oFTCYXM1v5LIe2lsAonHlzr9Fxms49Z8wXjTVwOkRTEJHjEcQJjbsjrVu7g9nAazpOG2yOIEBt1a6cPaEZLIFXVT3XP/nQpYDRm/WAtN3mjFUEZozUfgBbyNc1WkW41ypqZPVQalpc40/AxIPDQWBX/+WtdVh6U7vdStlUDKs/7/2bZZeuks2+6Fz+FnqxdXbC4Z4GCTZjKkUqu69iQcoEaD2nLMPW6b4DRwPjDWPd7T6xFPdPs="
+      }
+    }
+  ]
+}
